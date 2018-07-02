@@ -1,0 +1,89 @@
+1.美图AI Lab
+Meitu AI Lab
+
+Devops 工程师
+DevOps Enginer
+
+2015-2017
+
+1.运用k8s管理价值300万的GPU集群，通过容器编排技术合理利用资源，减少了30%的资源浪费。
+Managed $600K GPU HPC Cluster with kubernetes ,saving 30% compute resources.
+
+2.使用Ceph搭建存储容量300TB的分布式集群，承载美图实验室的所有图片和影像，通过NAS为k8s计算集群提供数据，平均带宽1GB/s
+Set up Ceph Cluster to storage 300TB  images and video ,used by kubernetes cluster to training deep learning model with 1GB/s average bandwidth
+
+3.使用python搭建内部的Iaas平台，让实验室的100名算法工程师，合理的申请机器来训练算法，缩短20%的训练时间。
+Developed an applicationed ,allowing  100 algorithm engeineers to apply GPU docker for training model with python and flask
+
+4.编写tensorflow的yaml文件，利用k8s来跑分布式训练
+Design tensorflow yaml to run distriubed training on kubernetes.
+
+
+2.启尚科技有限公司
+Qishon
+
+devops 负责人
+DevOps Manager
+
+2017-2018
+
+1.管理20台linux服务器，为基于spring cloud 的微服务提供kubernete 集群，快一年以来，集群都很健康。
+Deployed and Orchestrated the spring cloud application with kubernetes on 20 Linux servers, devided kubernetes cluster into three environments.
+
+2.搭建Gitlab，配置CICD pipeline为开发人员加速开发，平均构建时间从20分钟变为3分钟，为公司节省了招聘运维人员的开销。
+Customized gitlab-ci pipeline for continusous integration and continuous deployment by docker in docker .Cut build times by 70% for microservice.
+
+3.配置企业级的镜像仓库Harbor，将产品全部容器化，产品打包成helm包。
+Dockerrized  all the services and applications and set up harbor to keep docker images.
+
+4.搭建JIRA+Confluence，熟悉JIRA+Confluence的热卖插件的安装和使用，利用敏捷开发管理大型项目。
+Set up JIRA and Confluence, developed and maintained JIRA for agile developments.
+
+5.搭建内网DNS系统和 利用k8s的网关traefix技术，实现了每个服务都自动分配内网域名，提升开发效率5%。
+Set up DNS for the intranet with CoreDns ,and provided domain name for every services based on traefix and kubernetes
+
+6.搭建EFK日志收集系统，让开发人员可以快速的排错。
+Monitoring cluster health with grafana and prometheus ,collecting and analyze logs from kubernetes using EFK
+
+7.构建Prometheus+ grafana 的分布式监控平台，监控k8s集群的健康
+Build Large Distributed Mornitoring cluster to keep kubernetes cluster high available
+Summary
+
+	Versatile DevOps manager with 3 years of experience. Seeking to leverage proven continuous deployment skills to raise quality. Cut customer complaints by 20% for an ERP application. At Qishon Inc., used gitlab and kubernetes tools to slash release times by 50%. Boosted customer satisfaction by 25%.
+
+Experience
+
+	Meitu AI Lab
+	DevOps Enginer
+	2015-2017
+
+	1.Managed $600K GPU HPC Cluster with Kubernetes, saving 30% compute resources.
+	2.Set up Ceph Cluster to storage 300TB images and video, used by Kubernetes Cluster to training deep learning model with 1GB/s average bandwidth.
+	3.Developed an Applicationed, allowing 100+ algorithm engeineers to apply GPU docker for training model with Python and Flask.
+	4.Design tensorflow yaml to run distriubed training on kubernetes.
+
+	Qishon Inc
+	DevOps Manager
+	2017-2018
+
+	1.Led DevOps team of 5 SysAdmin to developed and Maintained multiple tools to automate Daily jobs.
+	1.Customized Gitlab-ci pipeline for continusous integration and continuous deployment by docker in docker, Cut build times by 50% for microservice.
+	2.Dockerrized  all the services and applications and set up harbor to keep docker images.
+	3.Set up JIRA and Confluence, developed and maintained JIRA for agile developments.
+	4.Set up DNS for the intranet with CoreDns ,and provided domain name for every services based on traefix and kubernetes.
+	5.Monitoring cluster health with grafana and prometheus ,collecting and analyze logs from kubernetes using EFK.
+
+Skills:
+	Linux
+	AWS
+	Shell Scripting
+	Docker
+	Kubernetes
+	Nginx
+	JIRA & Confluence
+	Ceph
+	Gitlab
+	EFK
+	Prometheus & grafana
+	Nextcloud
+	

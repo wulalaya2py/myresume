@@ -1,3 +1,4 @@
+#这个是中英混合的格式
 1.美图AI Lab
 Meitu AI Lab
 
@@ -49,9 +50,44 @@ Monitoring cluster health with grafana and prometheus ,collecting and analyze lo
 Build Large Distributed Mornitoring cluster to keep kubernetes cluster high available
 Summary
 
-	Versatile DevOps manager with 3 years of experience. Seeking to leverage proven continuous deployment skills to raise quality. Cut customer complaints by 20% for an ERP application. At Qishon Inc., used gitlab and kubernetes tools to slash release times by 50%. Boosted customer satisfaction by 25%.
 
-Experience
+#下面是Upwork的格式
+
+Overview
+
+I’m new Freelancer on Upwork and expert of kubernetes, gitlab-ci, and AWS. I have developed many tools to increase productivity
+
+Feel free to get in touch with me if you need:
+
+? kubernetes 
+? gitlab-ci 
+? AWS
+? log analysis and monitoring
+? python and shell scripting
+? nginx and DNS setting
+? hadoop and spark
+? most CNCF software 
+
+what can i do for you:
+
+? Faster, quicker deployment of new systems and apps
+? Agility is the key
+? DevOps translates into money:
+? Faster development cycles for the organizations
+? Continuous service delivery
+? Stable/reliable operating environments
+
+
+
+Portfolio
+
+Skills
+
+Tests
+
+Certifications
+
+Employment History
 
 	Meitu AI Lab
 	DevOps Enginer
@@ -61,6 +97,7 @@ Experience
 	2.Set up Ceph Cluster to storage 300TB images and video, used by Kubernetes Cluster to training deep learning model with 1GB/s average bandwidth.
 	3.Developed an Applicationed, allowing 100+ algorithm engeineers to apply GPU docker for training model with Python and Flask.
 	4.Design tensorflow yaml to run distriubed training on kubernetes.
+
 
 	Qishon Inc
 	DevOps Manager
@@ -73,17 +110,7 @@ Experience
 	4.Set up DNS for the intranet with CoreDns ,and provided domain name for every services based on traefix and kubernetes.
 	5.Monitoring cluster health with grafana and prometheus ,collecting and analyze logs from kubernetes using EFK.
 
-Skills:
-	Linux
-	AWS
-	Shell Scripting
-	Docker
-	Kubernetes
-	Nginx
-	JIRA & Confluence
-	Ceph
-	Gitlab
-	EFK
-	Prometheus & grafana
-	Nextcloud
-	
+
+Education
+
+Other Experiences
